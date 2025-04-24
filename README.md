@@ -12,11 +12,17 @@ This project performs a comprehensive A/B test analysis of paid marketing campai
 ## Dataset
 
 - **Source:** Internal campaign data  
-- **Columns:** Date, Platform (Facebook/AdWords), Impressions, Clicks, Conversions, Cost  
+- **Columns:** Date, Platform (Facebook/AdWords), Impressions, Clicks, Conversions, Cost
 
 ## How to Use
 
 1. Clone this repo  
 2. Install dependencies: `pip install -r requirements.txt`  
 3. Open and run the Jupyter Notebook `ABTestingProject_ReportReady.ipynb`  
-4. Review the “A/B Testing Report” section for detailed insights and recommendations  
+4. Review the “A/B Testing Report” section for detailed insights and recommendations
+
+Contact
+For any inquiries, reach out via GitHub Issues or email. dhwanizala25@gmail.com
+
+Author: [Dhwani Zala]
+Date: April 2025
